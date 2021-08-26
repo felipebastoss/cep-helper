@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083779882357",
+    "project_id": "cep-helper",
+    "storage_bucket": "cep-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083779882357:android:d89c3ad713ab782fe7473c",
+        "android_client_info": {
+          "package_name": "com.example.cep_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083779882357-jg1phjpg47tph5hamm2gedn3hfnl581o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoP2_7_QIEJFvIQE1ZHETINC8SkaVNwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083779882357-jg1phjpg47tph5hamm2gedn3hfnl581o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
