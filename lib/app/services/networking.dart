@@ -14,7 +14,7 @@ class NetworkHelper {
 
       return jsonDecode(data);
     } else {
-      print(response.statusCode);
+      print("Deu erro na bagaça");
       throw 'Problem with the get request';
     }
   }
